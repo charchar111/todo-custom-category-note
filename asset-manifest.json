@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/todo-custom-category-note/static/css/main.31d6cfe0.css",
+    "main.js": "/todo-custom-category-note/static/js/main.311ff9a2.js",
+    "index.html": "/todo-custom-category-note/index.html",
+    "main.311ff9a2.js.map": "/todo-custom-category-note/static/js/main.311ff9a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.311ff9a2.js"
+  ]
+}
